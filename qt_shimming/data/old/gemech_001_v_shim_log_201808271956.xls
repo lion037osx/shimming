@@ -1,0 +1,18 @@
+
+ Date :	2018/8/27-19:56
+File name:	 gemech_001_v.plot
+Name equipament:	GE Profile 4
+Steps:	1
+Temperature Room:	22
+
+Temperature Magnet:	32.5
+
+
+INDEX	0°	30°	60°	90°	120°	150°	180°	210°	240°	270°	300°	330°
+
+
+F0 Base Isocentro	 f8.123456
+
+PLANO 1	  8.12345
+
+PLANO 2	  8.12345	  8.12345	  8.12345	  8.12345	  8.12345	  8.12345
